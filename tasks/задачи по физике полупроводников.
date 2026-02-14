@@ -1,0 +1,20 @@
+What parameters of semiconductor
+material are needed for transistor
+fabrication?
+A. Charge carriers' mobility and
+concentration
+B. Charge carriers' concentration,
+minority charge carriers' life time,
+mobility
+C. Charge carriers' concentration and
+diffusion coefficient
+D. Charge carriers' concentration,
+diffusion coefficient, mobility, band
+gap
+E. The correct answer is missing
+
+Ответ: В
+
+Почему? По нескольким причинам. diffusion coefficient - это число, которое можно рассчитать исходя из соотношения Эйнштейна, если мы знаем
+подвижность
+($D=\frac{\mu kT}{e}$)
