@@ -117,6 +117,9 @@ $$\boxed{K_{\text{бол}} = \frac{R' - P_{\text{мал}} \cdot K_{\text{мал}
 
 $$\boxed{K_{\text{мал}} = \frac{R' - P_{\text{бол}} \cdot K_{\text{бол}}}{P_{\text{мал}}}}$$
 
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/fb2fd352-08ce-4807-982f-df22df748d13" />
+
+
 
 
 
